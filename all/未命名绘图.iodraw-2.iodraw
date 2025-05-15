@@ -7,7 +7,7 @@
         <mxCell id="luyJr6O01ob1YltPmW3I-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="luyJr6O01ob1YltPmW3I-0" target="luyJr6O01ob1YltPmW3I-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="luyJr6O01ob1YltPmW3I-0" value="引导用户打开授权页面，获取code" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="luyJr6O01ob1YltPmW3I-0" value="进入登录界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="97" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="luyJr6O01ob1YltPmW3I-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="luyJr6O01ob1YltPmW3I-1" target="luyJr6O01ob1YltPmW3I-3">
