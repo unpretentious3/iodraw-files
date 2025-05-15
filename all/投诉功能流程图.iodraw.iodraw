@@ -31,6 +31,9 @@
         <mxCell id="57NvpI4796B8EDEsOjX7-5" value="是否&lt;div&gt;登录&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="172.5" y="353" width="47.5" height="57" as="geometry" />
         </mxCell>
+        <mxCell id="kqS-LaZNEbZeAVznqSMC-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="57NvpI4796B8EDEsOjX7-7" target="kqS-LaZNEbZeAVznqSMC-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="57NvpI4796B8EDEsOjX7-7" value="操作成功" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="295" y="460" width="95" height="50" as="geometry" />
         </mxCell>
@@ -88,8 +91,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kqS-LaZNEbZeAVznqSMC-4" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="110" width="50" height="30" as="geometry" />
+        <mxCell id="kqS-LaZNEbZeAVznqSMC-4" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="317.5" y="540" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
