@@ -49,7 +49,7 @@
         <mxCell id="57NvpI4796B8EDEsOjX7-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="57NvpI4796B8EDEsOjX7-15" target="57NvpI4796B8EDEsOjX7-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="57NvpI4796B8EDEsOjX7-15" value="修改报修信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="57NvpI4796B8EDEsOjX7-15" value="删除报修信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="440" y="270" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="57NvpI4796B8EDEsOjX7-17" value="是否已处理" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
