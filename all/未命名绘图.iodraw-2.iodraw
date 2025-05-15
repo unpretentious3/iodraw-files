@@ -28,7 +28,7 @@
         <mxCell id="luyJr6O01ob1YltPmW3I-5" value="登录成功" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="luyJr6O01ob1YltPmW3I-7" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="luyJr6O01ob1YltPmW3I-7" value="将用户信息寸草数据库" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="540" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
