@@ -50,6 +50,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="CRQPz6onsXP_2e8Aj8U4-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CRQPz6onsXP_2e8Aj8U4-0" target="luyJr6O01ob1YltPmW3I-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CRQPz6onsXP_2e8Aj8U4-0" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="300" y="20" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
