@@ -34,7 +34,7 @@
         <mxCell id="89Acb2JiZ8_Bw48u482e-10" value="查看历史报修" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="273.5" y="290" width="30" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="89Acb2JiZ8_Bw48u482e-11" value="申请报修" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="89Acb2JiZ8_Bw48u482e-11" value="修改报修信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="290" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="89Acb2JiZ8_Bw48u482e-13" value="查看历史投诉" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
