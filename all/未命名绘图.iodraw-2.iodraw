@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="iQIkwP0KQX5q0wsmjfNq-5" value="安馨物业通" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="iQIkwP0KQX5q0wsmjfNq-5" value="安馨物业通" style="rounded=0;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="214" y="85" width="350" height="500" as="geometry" />
         </mxCell>
         <mxCell id="iQIkwP0KQX5q0wsmjfNq-1" value="业主" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
