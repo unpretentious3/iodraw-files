@@ -25,8 +25,8 @@
         <mxCell id="BcEC-Ktfj5p3LKDJpX-I-7" value="费用信息管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="364" y="530" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BcEC-Ktfj5p3LKDJpX-I-8" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="190" width="100" height="60" as="geometry" />
+        <mxCell id="BcEC-Ktfj5p3LKDJpX-I-8" value="通知信息管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="364" y="610" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
