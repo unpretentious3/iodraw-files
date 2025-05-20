@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="ci3jxZolnbgl9QrBYZEB">
-    <mxGraphModel dx="1008" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1008" dy="648" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,7 +31,7 @@
         <mxCell id="89Acb2JiZ8_Bw48u482e-9" value="登出系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="290" width="30" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="89Acb2JiZ8_Bw48u482e-10" value="登录系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="89Acb2JiZ8_Bw48u482e-10" value="查看历史报修" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="273.5" y="290" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="89Acb2JiZ8_Bw48u482e-11" value="申请报修" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
