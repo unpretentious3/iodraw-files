@@ -49,10 +49,10 @@
         <mxCell id="89Acb2JiZ8_Bw48u482e-16" value="提出建议" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="463.5" y="290" width="30" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="89Acb2JiZ8_Bw48u482e-18" value="登录系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="89Acb2JiZ8_Bw48u482e-18" value="查看历史订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="613.5" y="290" width="30" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="89Acb2JiZ8_Bw48u482e-19" value="登录系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="89Acb2JiZ8_Bw48u482e-19" value="缴纳费用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="573.5" y="290" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="89Acb2JiZ8_Bw48u482e-20" value="登录系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
