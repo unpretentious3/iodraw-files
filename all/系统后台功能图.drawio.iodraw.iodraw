@@ -29,7 +29,7 @@
           <mxGeometry x="120" y="290" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="89Acb2JiZ8_Bw48u482e-9" value="登出系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="290" width="30" height="80" as="geometry" />
+          <mxGeometry x="170" y="290" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="89Acb2JiZ8_Bw48u482e-10" value="登录系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="273.5" y="280" width="30" height="80" as="geometry" />
@@ -136,7 +136,7 @@
             <mxPoint x="180" y="300" as="sourcePoint" />
             <mxPoint x="230" y="250" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="175" y="260" />
+              <mxPoint x="185" y="260" />
               <mxPoint x="165" y="260" />
             </Array>
           </mxGeometry>
