@@ -29,7 +29,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="57NvpI4796B8EDEsOjX7-7" value="操作成功" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="297.5" y="430" width="95" height="50" as="geometry" />
+          <mxGeometry x="297.5" y="440" width="95" height="50" as="geometry" />
         </mxCell>
         <mxCell id="oUfQrC4cOEeCLsdRfBaU-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="57NvpI4796B8EDEsOjX7-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -60,7 +60,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MPtIL7_LbB2dVPTyugas-5" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MPtIL7_LbB2dVPTyugas-2">
+        <mxCell id="MPtIL7_LbB2dVPTyugas-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;否&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MPtIL7_LbB2dVPTyugas-2">
           <mxGeometry x="0.1566" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
