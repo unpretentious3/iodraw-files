@@ -14,7 +14,7 @@
           <mxGeometry x="160" y="320" width="97" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DRCUF8cU4M3nDhZcJCxh-18" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;房屋信息管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="240" width="97" height="50" as="geometry" />
+          <mxGeometry x="160" y="260" width="97" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DRCUF8cU4M3nDhZcJCxh-19" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;业主信息管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="150" width="97" height="50" as="geometry" />
@@ -106,7 +106,6 @@
             <mxPoint x="310" y="40" as="targetPoint" />
             <Array as="points">
               <mxPoint x="300" y="85" />
-              <mxPoint x="300" y="105" />
               <mxPoint x="300" y="60" />
             </Array>
           </mxGeometry>
@@ -117,17 +116,18 @@
             <mxPoint x="460" y="340" as="targetPoint" />
             <Array as="points">
               <mxPoint x="300" y="85" />
+              <mxPoint x="300" y="110" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="DRCUF8cU4M3nDhZcJCxh-35" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;登录&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="260" width="97" height="30" as="geometry" />
+          <mxGeometry x="340" y="210" width="97" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DRCUF8cU4M3nDhZcJCxh-36" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;登录&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="220" width="97" height="30" as="geometry" />
+          <mxGeometry x="340" y="170" width="97" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DRCUF8cU4M3nDhZcJCxh-37" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;登录&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="180" width="97" height="30" as="geometry" />
+          <mxGeometry x="340" y="130" width="97" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
