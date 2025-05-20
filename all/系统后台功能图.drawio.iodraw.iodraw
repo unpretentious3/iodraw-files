@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="fc48f_KwGd9KhwkFuqs6-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;前台功能模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="20" y="320" width="97" height="50" as="geometry" />
+          <mxGeometry y="320" width="97" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DRCUF8cU4M3nDhZcJCxh-16" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;投诉信息管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="390" width="97" height="50" as="geometry" />
@@ -27,6 +27,12 @@
         </mxCell>
         <mxCell id="DRCUF8cU4M3nDhZcJCxh-22" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;通知信息管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="520" width="97" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DRCUF8cU4M3nDhZcJCxh-23" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fc48f_KwGd9KhwkFuqs6-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="220" as="sourcePoint" />
+            <mxPoint x="60" y="170" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
