@@ -56,10 +56,16 @@
           <mxGeometry x="573.5" y="280" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="89Acb2JiZ8_Bw48u482e-20" value="登录系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="290" width="30" height="80" as="geometry" />
+          <mxGeometry x="716.5" y="280" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="89Acb2JiZ8_Bw48u482e-21" value="登录系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="290" width="30" height="80" as="geometry" />
+          <mxGeometry x="676.5" y="280" width="30" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="89Acb2JiZ8_Bw48u482e-25" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="89Acb2JiZ8_Bw48u482e-2" target="fc48f_KwGd9KhwkFuqs6-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="40" as="sourcePoint" />
+            <mxPoint x="230" y="-10" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
