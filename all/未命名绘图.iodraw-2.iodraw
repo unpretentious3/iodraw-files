@@ -40,7 +40,7 @@
         <mxCell id="iQIkwP0KQX5q0wsmjfNq-14" value="费用缴纳" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="360" width="86" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="iQIkwP0KQX5q0wsmjfNq-15" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="iQIkwP0KQX5q0wsmjfNq-15" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iQIkwP0KQX5q0wsmjfNq-7">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="330" y="340" as="sourcePoint" />
             <mxPoint x="490" y="340" as="targetPoint" />
