@@ -29,16 +29,19 @@
           <mxGeometry x="250" y="330" width="30" height="90" as="geometry" />
         </mxCell>
         <mxCell id="IC9DbEjbpH6LgUt8KNZC-8" value="登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="380" width="30" height="90" as="geometry" />
+          <mxGeometry x="690" y="330" width="30" height="90" as="geometry" />
         </mxCell>
         <mxCell id="IC9DbEjbpH6LgUt8KNZC-9" value="登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="330" width="30" height="90" as="geometry" />
         </mxCell>
         <mxCell id="IC9DbEjbpH6LgUt8KNZC-10" value="登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="320" width="30" height="90" as="geometry" />
+          <mxGeometry x="600" y="330" width="30" height="90" as="geometry" />
         </mxCell>
         <mxCell id="IC9DbEjbpH6LgUt8KNZC-11" value="登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="320" width="30" height="90" as="geometry" />
+          <mxGeometry x="560" y="330" width="30" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="IC9DbEjbpH6LgUt8KNZC-13" value="登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="420" width="30" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
