@@ -20,10 +20,10 @@
           <mxGeometry x="240" y="420" width="86" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iQIkwP0KQX5q0wsmjfNq-8" value="建议" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="300" width="86" height="50" as="geometry" />
+          <mxGeometry x="340" y="300" width="86" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iQIkwP0KQX5q0wsmjfNq-9" value="投诉" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="240" width="86" height="50" as="geometry" />
+          <mxGeometry x="340" y="240" width="86" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iQIkwP0KQX5q0wsmjfNq-10" value="物业报修" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="180" width="86" height="50" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry x="410" y="480" width="86" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iQIkwP0KQX5q0wsmjfNq-14" value="费用缴纳" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="360" width="86" height="50" as="geometry" />
+          <mxGeometry x="340" y="360" width="86" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iQIkwP0KQX5q0wsmjfNq-15" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=13;" edge="1" parent="1" source="iQIkwP0KQX5q0wsmjfNq-7" target="iQIkwP0KQX5q0wsmjfNq-11">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -109,6 +109,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="660" y="160" as="sourcePoint" />
             <mxPoint x="710" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iQIkwP0KQX5q0wsmjfNq-35" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="180" as="sourcePoint" />
+            <mxPoint x="690" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
