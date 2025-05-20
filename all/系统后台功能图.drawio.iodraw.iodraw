@@ -7,7 +7,7 @@
         <mxCell id="fc48f_KwGd9KhwkFuqs6-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;前台功能模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="391" y="72" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fc48f_KwGd9KhwkFuqs6-2" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;在线报修&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="fc48f_KwGd9KhwkFuqs6-2" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;登录&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fc48f_KwGd9KhwkFuqs6-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;申请报修&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -16,7 +16,7 @@
         <mxCell id="fc48f_KwGd9KhwkFuqs6-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;查看历史报修&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="330" width="30" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="5kU0QbRcxcoHen9bElsQ-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;物业缴费&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="5kU0QbRcxcoHen9bElsQ-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;物业报修&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="243" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5kU0QbRcxcoHen9bElsQ-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;查看&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;通知&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
