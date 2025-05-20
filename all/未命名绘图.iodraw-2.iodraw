@@ -16,8 +16,11 @@
         <mxCell id="iQIkwP0KQX5q0wsmjfNq-6" value="登录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="346" y="120" width="86" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="iQIkwP0KQX5q0wsmjfNq-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iQIkwP0KQX5q0wsmjfNq-7" target="iQIkwP0KQX5q0wsmjfNq-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iQIkwP0KQX5q0wsmjfNq-7" value="查看通知" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="410" width="86" height="50" as="geometry" />
+          <mxGeometry x="240" y="420" width="86" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iQIkwP0KQX5q0wsmjfNq-8" value="建议" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="300" width="86" height="50" as="geometry" />
@@ -38,12 +41,17 @@
           <mxGeometry x="390" y="480" width="86" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iQIkwP0KQX5q0wsmjfNq-14" value="费用缴纳" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="285" y="350" width="86" height="50" as="geometry" />
+          <mxGeometry x="270" y="360" width="86" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iQIkwP0KQX5q0wsmjfNq-15" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iQIkwP0KQX5q0wsmjfNq-7" target="iQIkwP0KQX5q0wsmjfNq-11">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="330" y="340" as="sourcePoint" />
             <mxPoint x="490" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iQIkwP0KQX5q0wsmjfNq-28" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iQIkwP0KQX5q0wsmjfNq-15">
+          <mxGeometry x="-0.2162" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iQIkwP0KQX5q0wsmjfNq-17" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="iQIkwP0KQX5q0wsmjfNq-1" target="iQIkwP0KQX5q0wsmjfNq-6">
