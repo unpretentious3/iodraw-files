@@ -19,8 +19,8 @@
         <mxCell id="BcEC-Ktfj5p3LKDJpX-I-5" value="房产信息管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="364" y="210" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BcEC-Ktfj5p3LKDJpX-I-6" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="170" width="100" height="60" as="geometry" />
+        <mxCell id="BcEC-Ktfj5p3LKDJpX-I-6" value="建议信息管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="364" y="450" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
