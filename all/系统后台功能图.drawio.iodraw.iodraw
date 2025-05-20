@@ -34,7 +34,7 @@
         <mxCell id="89Acb2JiZ8_Bw48u482e-10" value="登录系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="273.5" y="290" width="30" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="89Acb2JiZ8_Bw48u482e-11" value="登录系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="89Acb2JiZ8_Bw48u482e-11" value="申请报修" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="290" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="89Acb2JiZ8_Bw48u482e-13" value="查看历史投诉" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -56,7 +56,7 @@
           <mxGeometry x="573.5" y="290" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="89Acb2JiZ8_Bw48u482e-21" value="查看通知" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="290" width="30" height="80" as="geometry" />
+          <mxGeometry x="696.5" y="290" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="89Acb2JiZ8_Bw48u482e-25" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="89Acb2JiZ8_Bw48u482e-2" target="fc48f_KwGd9KhwkFuqs6-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -216,6 +216,12 @@
               <mxPoint x="629" y="260" />
               <mxPoint x="609" y="260" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="89Acb2JiZ8_Bw48u482e-47" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="89Acb2JiZ8_Bw48u482e-21" target="89Acb2JiZ8_Bw48u482e-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="750" y="430" as="sourcePoint" />
+            <mxPoint x="800" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
