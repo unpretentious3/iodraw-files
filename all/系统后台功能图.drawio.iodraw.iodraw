@@ -37,7 +37,7 @@
         <mxCell id="89Acb2JiZ8_Bw48u482e-11" value="登录系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="290" width="30" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="89Acb2JiZ8_Bw48u482e-13" value="登录系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="89Acb2JiZ8_Bw48u482e-13" value="查看历史投诉" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="392" y="290" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="89Acb2JiZ8_Bw48u482e-14" value="提出投诉" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
