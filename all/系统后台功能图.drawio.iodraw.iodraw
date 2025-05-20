@@ -38,10 +38,16 @@
           <mxGeometry x="240" y="290" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="89Acb2JiZ8_Bw48u482e-13" value="登录系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="320" width="30" height="80" as="geometry" />
+          <mxGeometry x="414" y="290" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="89Acb2JiZ8_Bw48u482e-14" value="登录系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="330" width="30" height="80" as="geometry" />
+          <mxGeometry x="370" y="290" width="30" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="89Acb2JiZ8_Bw48u482e-15" value="登录系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="340" width="30" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="89Acb2JiZ8_Bw48u482e-16" value="登录系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="350" width="30" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
