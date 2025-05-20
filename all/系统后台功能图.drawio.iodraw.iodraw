@@ -224,6 +224,12 @@
             <mxPoint x="800" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="DRCUF8cU4M3nDhZcJCxh-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;登录&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="190.5" width="90" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="DRCUF8cU4M3nDhZcJCxh-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;登录&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="200.5" width="90" height="51" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
