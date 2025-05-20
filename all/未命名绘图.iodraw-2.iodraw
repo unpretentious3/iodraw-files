@@ -13,10 +13,10 @@
         <mxCell id="iQIkwP0KQX5q0wsmjfNq-2" value="物业服务人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="690" y="300" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iQIkwP0KQX5q0wsmjfNq-6" value="登录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iQIkwP0KQX5q0wsmjfNq-6" value="登录" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="346" y="120" width="86" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="iQIkwP0KQX5q0wsmjfNq-7" value="查看通知" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iQIkwP0KQX5q0wsmjfNq-7" value="查看通知" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="254" y="420" width="86" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iQIkwP0KQX5q0wsmjfNq-8" value="建议" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -37,7 +37,7 @@
         <mxCell id="iQIkwP0KQX5q0wsmjfNq-13" value="房屋信息管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="480" width="86" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="iQIkwP0KQX5q0wsmjfNq-14" value="费用缴纳" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iQIkwP0KQX5q0wsmjfNq-14" value="费用缴纳" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="340" y="360" width="86" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iQIkwP0KQX5q0wsmjfNq-15" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=13;" edge="1" parent="1" source="iQIkwP0KQX5q0wsmjfNq-7" target="iQIkwP0KQX5q0wsmjfNq-11">
