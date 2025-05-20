@@ -31,10 +31,15 @@
         <mxCell id="57NvpI4796B8EDEsOjX7-7" value="操作成功" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="297.5" y="430" width="95" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="oUfQrC4cOEeCLsdRfBaU-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="57NvpI4796B8EDEsOjX7-7" edge="1">
+        <mxCell id="oUfQrC4cOEeCLsdRfBaU-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="57NvpI4796B8EDEsOjX7-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="345" y="401.5" as="sourcePoint" />
             <mxPoint x="200" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MPtIL7_LbB2dVPTyugas-4" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oUfQrC4cOEeCLsdRfBaU-4">
+          <mxGeometry x="-0.2164" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oUfQrC4cOEeCLsdRfBaU-7" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
