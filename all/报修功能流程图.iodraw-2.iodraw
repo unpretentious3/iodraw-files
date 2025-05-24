@@ -25,7 +25,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5iczhNmXS0irV7pOlMko-5" value="是否登录" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="288.5" y="450" width="110" height="60" as="geometry" />
+          <mxGeometry x="287" y="470" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5iczhNmXS0irV7pOlMko-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5iczhNmXS0irV7pOlMko-6" target="oUfQrC4cOEeCLsdRfBaU-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -75,7 +75,7 @@
         <mxCell id="V05sTVg_HAd1MnEfML7S-12" value="上传图片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="288.5" y="390" width="113" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="V05sTVg_HAd1MnEfML7S-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="V05sTVg_HAd1MnEfML7S-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="5iczhNmXS0irV7pOlMko-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-10" y="460" as="sourcePoint" />
             <mxPoint x="40" y="410" as="targetPoint" />
