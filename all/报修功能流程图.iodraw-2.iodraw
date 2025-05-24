@@ -25,7 +25,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5iczhNmXS0irV7pOlMko-5" value="是否登录" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="288.5" y="420" width="110" height="60" as="geometry" />
+          <mxGeometry x="288.5" y="450" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5iczhNmXS0irV7pOlMko-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5iczhNmXS0irV7pOlMko-6" target="oUfQrC4cOEeCLsdRfBaU-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -66,11 +66,14 @@
             <mxPoint x="120" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="V05sTVg_HAd1MnEfML7S-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="V05sTVg_HAd1MnEfML7S-8" target="V05sTVg_HAd1MnEfML7S-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="V05sTVg_HAd1MnEfML7S-8" value="选择预约时间" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="288.5" y="310" width="113" height="50" as="geometry" />
         </mxCell>
         <mxCell id="V05sTVg_HAd1MnEfML7S-12" value="上传图片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="285.5" y="370" width="113" height="50" as="geometry" />
+          <mxGeometry x="288.5" y="390" width="113" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
