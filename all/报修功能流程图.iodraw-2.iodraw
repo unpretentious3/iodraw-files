@@ -63,6 +63,9 @@
             <mxPoint x="120" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="V05sTVg_HAd1MnEfML7S-8" value="填写保修内容" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="287" y="300" width="113" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
