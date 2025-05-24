@@ -54,6 +54,9 @@
         <mxCell id="V05sTVg_HAd1MnEfML7S-1" value="选择保修主题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="287" y="170" width="113" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="V05sTVg_HAd1MnEfML7S-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="V05sTVg_HAd1MnEfML7S-2" target="V05sTVg_HAd1MnEfML7S-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="V05sTVg_HAd1MnEfML7S-2" value="填写保修内容" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="287" y="240" width="113" height="50" as="geometry" />
         </mxCell>
@@ -67,7 +70,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="V05sTVg_HAd1MnEfML7S-8" value="选择预约时间" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="287" y="300" width="113" height="50" as="geometry" />
+          <mxGeometry x="287" y="320" width="113" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
