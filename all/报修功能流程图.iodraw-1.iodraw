@@ -16,8 +16,11 @@
         <mxCell id="5iczhNmXS0irV7pOlMko-4" value="填写相关信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="288.5" y="260" width="113" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="5iczhNmXS0irV7pOlMko-5" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="5iczhNmXS0irV7pOlMko-5" value="是否登录" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="288.5" y="350" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5iczhNmXS0irV7pOlMko-6" value="填写相关信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="287" y="440" width="113" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
