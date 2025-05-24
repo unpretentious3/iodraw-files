@@ -13,6 +13,9 @@
         <mxCell id="oUfQrC4cOEeCLsdRfBaU-7" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="320" y="566" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="V05sTVg_HAd1MnEfML7S-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5iczhNmXS0irV7pOlMko-0" target="V05sTVg_HAd1MnEfML7S-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5iczhNmXS0irV7pOlMko-0" value="进入报修功能界面" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="288.5" y="120" width="113" height="50" as="geometry" />
         </mxCell>
@@ -55,7 +58,7 @@
           <mxGeometry x="287" y="190" width="113" height="50" as="geometry" />
         </mxCell>
         <mxCell id="V05sTVg_HAd1MnEfML7S-2" value="填写保修内容" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="285.5" y="270" width="113" height="50" as="geometry" />
+          <mxGeometry x="288.5" y="270" width="113" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
