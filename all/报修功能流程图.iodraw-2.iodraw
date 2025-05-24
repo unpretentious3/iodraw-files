@@ -57,8 +57,11 @@
         <mxCell id="V05sTVg_HAd1MnEfML7S-15" value="填写保修内容和主题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="285.5" y="223" width="113" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="V05sTVg_HAd1MnEfML7S-16" value="填写保修内容和主题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="295.5" y="233" width="113" height="50" as="geometry" />
+        <mxCell id="V05sTVg_HAd1MnEfML7S-16" value="上传图片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="290" y="310" width="113" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="V05sTVg_HAd1MnEfML7S-17" value="上传图片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="287" y="390" width="113" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
