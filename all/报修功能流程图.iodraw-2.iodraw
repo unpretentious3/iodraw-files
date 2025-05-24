@@ -69,8 +69,8 @@
         <mxCell id="V05sTVg_HAd1MnEfML7S-8" value="选择预约时间" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="288.5" y="310" width="113" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="V05sTVg_HAd1MnEfML7S-12" value="选择预约时间" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="298.5" y="320" width="113" height="50" as="geometry" />
+        <mxCell id="V05sTVg_HAd1MnEfML7S-12" value="上传图片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="285.5" y="370" width="113" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
