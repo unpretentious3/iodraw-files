@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="57NvpI4796B8EDEsOjX7-0" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="320" y="60" width="50" height="30" as="geometry" />
+          <mxGeometry x="320" y="40" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oUfQrC4cOEeCLsdRfBaU-7" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="320" y="566" width="50" height="30" as="geometry" />
@@ -55,7 +55,7 @@
           <mxGeometry x="287" y="190" width="113" height="50" as="geometry" />
         </mxCell>
         <mxCell id="V05sTVg_HAd1MnEfML7S-2" value="填写保修内容" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="288.5" y="270" width="113" height="50" as="geometry" />
+          <mxGeometry x="285.5" y="270" width="113" height="50" as="geometry" />
         </mxCell>
         <mxCell id="V05sTVg_HAd1MnEfML7S-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5iczhNmXS0irV7pOlMko-0" target="V05sTVg_HAd1MnEfML7S-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
