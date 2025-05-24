@@ -5,13 +5,19 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="57NvpI4796B8EDEsOjX7-0" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="320" y="110" width="50" height="30" as="geometry" />
+          <mxGeometry x="320" y="90" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oUfQrC4cOEeCLsdRfBaU-7" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="320" y="516" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5iczhNmXS0irV7pOlMko-0" value="进入小程序首页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="297" y="180" width="96" height="50" as="geometry" />
+          <mxGeometry x="297" y="170" width="96" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5iczhNmXS0irV7pOlMko-2" value="进入小程序首页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="307" y="180" width="96" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5iczhNmXS0irV7pOlMko-3" value="进入小程序首页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="297" y="260" width="96" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
