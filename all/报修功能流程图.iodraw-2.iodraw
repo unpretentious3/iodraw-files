@@ -23,7 +23,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5iczhNmXS0irV7pOlMko-4" value="填写相关信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="288.5" y="250" width="113" height="50" as="geometry" />
+          <mxGeometry x="287" y="240" width="113" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5iczhNmXS0irV7pOlMko-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5iczhNmXS0irV7pOlMko-5" target="5iczhNmXS0irV7pOlMko-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -34,7 +34,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5iczhNmXS0irV7pOlMko-5" value="是否登录" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="290" y="363" width="110" height="60" as="geometry" />
+          <mxGeometry x="288.5" y="360" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5iczhNmXS0irV7pOlMko-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5iczhNmXS0irV7pOlMko-6" target="oUfQrC4cOEeCLsdRfBaU-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -48,7 +48,7 @@
             <mxPoint x="530" y="310" as="targetPoint" />
             <Array as="points">
               <mxPoint x="470" y="393" />
-              <mxPoint x="470" y="195" />
+              <mxPoint x="470" y="175" />
             </Array>
           </mxGeometry>
         </mxCell>
