@@ -147,8 +147,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="i6NVFJiJtiU1fS-eXVIG-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;费用信息&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="201" width="86" height="39" as="geometry" />
+        <mxCell id="i6NVFJiJtiU1fS-eXVIG-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;通知信息&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="310" width="86" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
