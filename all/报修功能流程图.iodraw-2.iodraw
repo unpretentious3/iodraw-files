@@ -11,7 +11,7 @@
           <mxGeometry x="320" y="40" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oUfQrC4cOEeCLsdRfBaU-7" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="320" y="566" width="50" height="30" as="geometry" />
+          <mxGeometry x="317" y="610" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5iczhNmXS0irV7pOlMko-0" value="进入报修功能界面" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="288.5" y="100" width="113" height="50" as="geometry" />
@@ -28,9 +28,6 @@
           <mxGeometry x="288.5" y="370" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5iczhNmXS0irV7pOlMko-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5iczhNmXS0irV7pOlMko-6" target="oUfQrC4cOEeCLsdRfBaU-7" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="V05sTVg_HAd1MnEfML7S-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5iczhNmXS0irV7pOlMko-6" target="oUfQrC4cOEeCLsdRfBaU-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5iczhNmXS0irV7pOlMko-6" value="报修成功" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
